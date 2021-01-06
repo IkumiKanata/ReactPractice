@@ -13,7 +13,7 @@ text-align:center;
 @media (min-width: 500px) {
   width:450px;
 }
-`
+` //with two backticks 
 
 const person = ( props ) => {
     return (
